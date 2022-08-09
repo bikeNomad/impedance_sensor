@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2022-08-09_18-15-56")(type "Legacy")(uri "${KIPRJMOD}/2022-08-09_18-15-56.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+)
